@@ -1,5 +1,5 @@
 # E-Commerce-Website-Using-PHP
-
+# Give a Star if you find it useful.
 ## Summary
 Hello friends, This is my first full e-commerce project. This is free. Anybody can use and moderate this project.
 
@@ -36,5 +36,7 @@ Hello friends, This is my first full e-commerce project. This is free. Anybody c
 There are also many more feature which are not in the list. Feel free to use this project
 
 ### Set Up
-(i) Use XAMPP 5.6 for this project. You can download it from here... https://www.apachefriends.org/download.html
+(i) Use XAMPP 5.6 for this project. You can download it from here... https://www.apachefriends.org/download.html <bgr>
+
+
 
